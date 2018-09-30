@@ -72,12 +72,14 @@ html, body {
     height: 5px;
     background-color: black;
     width: 90%;
+    margin: 10px;
 }
 
-.project_separator {
+.short_separator {
     height: 5px;
     background-color: black;
     width: 30%;
+    margin: 10px;
 }
 
 #journey img {
@@ -118,6 +120,15 @@ html, body {
     width: 90%;
 }
 
+#front-end {
+}
+
+#back-end {
+}
+
+#skills {
+    width: 90%;
+}
 @media only screen and (min-width: 100px) and (max-width: 800px) {
     #project_descriptions img {
         width: auto;
