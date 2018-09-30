@@ -83,6 +83,8 @@ html, body {
 #journey img {
     width: 50%;
     height: 350px;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 #journey p {
@@ -100,7 +102,12 @@ html, body {
     float: right;
     width: 50%;
     height: 300px;
+<<<<<<< HEAD
     padding: 10px;
+=======
+    max-width: 100%;
+    max-height: 100%;
+>>>>>>> parent of 5aa3252... i discovered chrome dev tools. noice!
 }
 
 #project_descriptions p {
@@ -117,6 +124,7 @@ html, body {
 
 #about_me {
     width: 90%;
+<<<<<<< HEAD
 }
 
 @media only screen and (min-width: 100px) and (max-width: 700px) {
@@ -138,4 +146,6 @@ html, body {
         padding: 10px;
     }
 
+=======
+>>>>>>> parent of 5aa3252... i discovered chrome dev tools. noice!
 }
