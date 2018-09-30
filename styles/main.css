@@ -68,6 +68,12 @@ html, body {
     width: 90%;
 }
 
+.project_separator {
+    height: 5px;
+    background-color: black;
+    width: 30%;
+}
+
 #journey img {
     width: 50%;
     height: 350px;
@@ -77,7 +83,7 @@ html, body {
     font-size: 20px;
 }
 #journey {
-    width: 100%;
+    width: 90%;
 }
 
 #projects {
