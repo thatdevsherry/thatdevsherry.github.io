@@ -100,6 +100,7 @@ html, body {
     float: right;
     width: 50%;
     height: 300px;
+    padding: 10px;
 }
 
 #project_descriptions p {
@@ -118,12 +119,12 @@ html, body {
     width: 90%;
 }
 
-@media only screen and (min-width: 100px) and (max-width: 800px) {
+@media only screen and (min-width: 100px) and (max-width: 700px) {
     #project_descriptions img {
         width: auto;
         max-width: 100%;
         height: auto;
-        padding-bottom: 10px;
+        padding: 10px;
     }
 
     #page p {
@@ -134,7 +135,7 @@ html, body {
         width: auto;
         max-width: 100%;
         height: auto;
-        padding-bottom: 10px;
+        padding: 10px;
     }
 
 }
