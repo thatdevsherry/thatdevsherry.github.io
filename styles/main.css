@@ -18,11 +18,13 @@ html, body {
     border-radius: 50%;
     height: 150px;
     width: 150px;
+    max-width: 100%;
 }
 
 #links img {
     height: 150px;
     width: 150px;
+    max-width: 100%;
 }
 
 #content {
@@ -94,6 +96,7 @@ html, body {
     float: right;
     width: 50%;
     height: 300px;
+    max-width: 100%;;
 }
 
 #project_descriptions p {
