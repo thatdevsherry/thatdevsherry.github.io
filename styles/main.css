@@ -43,43 +43,65 @@ html, body {
     
 }
 .fa-instagram {
-
     background-color: darkblue;
 
 }
 
 .fa-twitter {
-    padding: 20px;
-    font-size: 20px;
-    width: 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
     background: #55ACEE;
 }
 
 .fa-linkedin {
-    padding: 20px;
-    font-size: 20px;
-    width: 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
     background-color: rgb(0, 119, 181);
 }
 
 .fa-github {
-    padding: 20px;
-    font-size: 20px;
-    width: 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
     background-color: black;
 }
 
+.fa-envelope {
+    background-color: rgb(255, 0, 149);
+}
 .separator {
     height: 5px;
     background-color: black;
-    width: 95%;
+    width: 90%;
+}
+
+#journey img {
+    width: 50%;
+    height: 350px;
+}
+
+#journey p {
+    font-size: 20px;
+}
+#journey {
+    width: 100%;
+}
+
+#projects {
+    width: 90%;
+}
+
+#project_descriptions img{
+    float: right;
+    width: 50%;
+    height: 300px;
+}
+
+#project_descriptions p {
+    font-size: 20px;
+}
+
+#tuition-manager {
+    height: 400px;
+}
+
+#employeeManager {
+    height: 400px;
+}
+
+#about_me {
+    width: 90%;
 }
