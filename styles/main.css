@@ -1,145 +1,149 @@
 html, body {
-    font-family: 'Roboto Slab', serif;
-    padding: 0;
-    margin: 0;
-    color: black;
-    background-color: ivory;
-}   
+        font-family: 'Roboto Slab', serif;
+        padding: 0;
+        margin: 0;
+        color: black;
+        background-color: ivory;
+}
 
 #header {
-    width: 80%;
-    margin-top: 20px;
+        width: 80%;
+        margin-top: 20px;
 }
 #header h1 {
-    margin-top: 0;
+        margin-top: 0;
 }
 
 #header_picture img {
-    border-radius: 50%;
-    height: 150px;
-    width: 150px;
-    max-width: 100%;
-    max-height: 100%;
+        border-radius: 50%;
+        height: 150px;
+        width: 150px;
+        max-width: 100%;
+        max-height: 100%;
 
 }
 
 #links img {
-    height: 150px;
-    width: 150px;
-    max-width: 100%;
-    max-height: 100%;
+        height: 150px;
+        width: 150px;
+        max-width: 100%;
+        max-height: 100%;
 
 }
 
 #content {
-    width: 80%;
+        width: 80%;
 }
 
 .fa {
-    padding: 20px;
-    font-size: 20px;
-    width: 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    color: ivory;
-    
+        padding: 20px;
+        font-size: 20px;
+        width: 20px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        color: ivory;
+
 }
 .fa-instagram {
-    background-color: darkblue;
+        background-color: darkblue;
 
 }
 
 .fa-twitter {
-    background: #55ACEE;
+        background: #55ACEE;
 }
 
 .fa-linkedin {
-    background-color: rgb(0, 119, 181);
+        background-color: rgb(0, 119, 181);
 }
 
 .fa-github {
-    background-color: black;
+        background-color: black;
 }
 
 .fa-envelope {
-    background-color: rgb(255, 0, 149);
+        background-color: rgb(255, 0, 149);
+}
+
+.fa-medium {
+        background-color: rgb(0,0,0);
 }
 .separator {
-    height: 5px;
-    background-color: black;
-    width: 90%;
-    margin: 10px;
+        height: 5px;
+        background-color: black;
+        width: 90%;
+        margin: 10px;
 }
 
 .short_separator {
-    height: 5px;
-    background-color: black;
-    width: 30%;
-    margin: 10px;
+        height: 5px;
+        background-color: black;
+        width: 30%;
+        margin: 10px;
 }
 
 #journey img {
-    width: 50%;
-    height: 350px;
+        width: 50%;
+        height: 350px;
 }
 
 #journey p {
-    font-size: 20px;
+        font-size: 20px;
 }
 #journey {
-    width: 90%;
+        width: 90%;
 }
 
 #projects {
-    width: 90%;
+        width: 90%;
 }
 
 #project_descriptions img{
-    float: right;
-    width: 50%;
-    height: 300px;
+        float: right;
+        width: 50%;
+        height: 300px;
 }
 
 #project_descriptions p {
-    font-size: 20px;
+        font-size: 20px;
 }
 
 #tuition-manager {
-    height: 400px;
+        height: 400px;
 }
 
 #employeeManager {
-    height: 400px;
+        height: 400px;
 }
 
 #about_me {
-    width: 90%;
+        width: 90%;
 }
 
 #skills {
-    width: 90%;
+        width: 90%;
 }
 @media only screen and (min-width: 100px) and (max-width: 800px) {
-    #project_descriptions img {
-        width: auto;
-        max-width: 100%;
-        height: auto;
-        padding-bottom: 10px;
-    }
+        #project_descriptions img {
+                width: auto;
+                max-width: 100%;
+                height: auto;
+                padding-bottom: 10px;
+        }
 
-    #page p {
-        font-size: 15px;
-    }
+        #page p {
+                font-size: 15px;
+        }
 
-    #journey img {
-        width: auto;
-        max-width: 100%;
-        height: auto;
-        padding-bottom: 10px;
-    }
+        #journey img {
+                width: auto;
+                max-width: 100%;
+                height: auto;
+                padding-bottom: 10px;
+        }
 
 }
