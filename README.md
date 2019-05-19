@@ -1,1 +1,0 @@
-# ShehriyarQureshi.github.io
