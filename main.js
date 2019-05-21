@@ -300,7 +300,7 @@ var ContactComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<mat-card class=\"greeting-card\">\n    <mat-card-title>\n        <h1>السَّلَامُ عَلَيْكُمْ</h1>\n    </mat-card-title>\n</mat-card>\n"
+module.exports = "<mat-card class=\"greeting-card\">\n    <mat-card-title>\n        <h1>السَّلَامُ عَلَيْكُمْ</h1>\n    </mat-card-title>\n</mat-card>\n\n<mat-card>\n    <mat-card-title>\n        <p>In Progress, you can see <a routerLink=\"/about\">about</a> and <a routerLink=\"/contact\">contact</a> page for now.</p>\n    </mat-card-title>\n</mat-card>"
 
 /***/ }),
 
