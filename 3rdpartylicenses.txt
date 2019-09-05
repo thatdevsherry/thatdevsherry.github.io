@@ -84,8 +84,6 @@ THE SOFTWARE.
 
 @angular/material/card
 
-@angular/material/tabs
-
 @angular/platform-browser
 MIT
 
@@ -166,8 +164,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-ng2-animate-on-scroll
-MIT
+font-awesome
+(OFL-1.1 AND MIT)
 
 roboto-fontface
 Apache-2.0
@@ -638,6 +636,9 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
+
+web-animations-js
+Apache-2.0
 
 zone.js
 MIT
